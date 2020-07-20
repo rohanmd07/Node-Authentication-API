@@ -13,7 +13,7 @@
     "cors": "*",
     "express": "*",
     "jsonwebtoken": "*",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "*",
     "nodemon": "^2.0.2",
     "passport": "0.3.2",
